@@ -1,0 +1,853 @@
+﻿Log file open, 02/27/19 13:22:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NoName
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304409
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.101s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.27-21.22.24:827][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.27-21.22.24:827][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.27-21.22.24:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.27-21.22.24:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:828][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.27-21.22.24:829][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:829][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:864][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.27-21.22.24:864][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.27-21.22.24:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.27-21.22.24:866][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.27-21.22.24:867][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.27-21.22.24:867][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.27-21.22.24:890][  0]LogHAL: Display: Platform has ~ 8 GB [8502599680 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.27-21.22.24:890][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.27-21.22.24:890][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.27-21.22.24:890][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:890][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.27-21.22.24:890][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.27-21.22.24:890][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:890][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.27-21.22.24:891][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Scalability.ini]
+[2019.02.27-21.22.24:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.27-21.22.24:892][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.27-21.22.24:892][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/dstanke/Desktop/new129/NoName/Saved/Config/Windows/Engine.ini]
+[2019.02.27-21.22.24:892][  0]LogInit: Computer: SEPHIROTH
+[2019.02.27-21.22.24:892][  0]LogInit: User: dstanke
+[2019.02.27-21.22.24:892][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.27-21.22.24:892][  0]LogInit: High frequency timer resolution =3.320321 MHz
+[2019.02.27-21.22.24:892][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.27-21.22.24:892][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.27-21.22.24:892][  0]LogMemory: Process Physical Memory: 102.15 MB used, 102.15 MB peak
+[2019.02.27-21.22.24:892][  0]LogMemory: Process Virtual Memory: 91.20 MB used, 91.20 MB peak
+[2019.02.27-21.22.24:892][  0]LogMemory: Physical Memory: 3283.57 MB used,  4825.14 MB free, 8108.71 MB total
+[2019.02.27-21.22.24:892][  0]LogMemory: Virtual Memory: 4647.93 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.27-21.22.24:917][  0]LogInit: Using OS detected language (en-US).
+[2019.02.27-21.22.24:917][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.27-21.22.24:918][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.27-21.22.25:360][  0]LogStreaming: Display: Took  0.442s to InitEngineTextLocalization.
+[2019.02.27-21.22.25:360][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.27-21.22.25:405][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.27-21.22.25:405][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.27-21.22.25:706][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.27-21.22.25:706][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.27-21.22.25:741][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.02.27-21.22.25:741][  0]LogD3D11RHI:       4058/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.27-21.22.25:749][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.02.27-21.22.25:749][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.27-21.22.25:752][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.27-21.22.25:752][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.27-21.22.25:752][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.27-21.22.25:759][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.27-21.22.25:759][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.27-21.22.25:759][  0]LogWindows: EnumDisplayDevices:
+[2019.02.27-21.22.25:759][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.02.27-21.22.25:759][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.02.27-21.22.25:760][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.02.27-21.22.25:760][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.02.27-21.22.25:760][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.27-21.22.25:760][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.27-21.22.25:761][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.27-21.22.25:761][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.27-21.22.25:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.02.27-21.22.25:761][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2019.02.27-21.22.25:761][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2019.02.27-21.22.25:761][  0]LogRHI: Texture pool is 2841 MB (70% of 4058 MB)
+[2019.02.27-21.22.25:784][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.27-21.22.25:802][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.27-21.22.26:262][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.27-21.22.26:275][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.27-21.22.26:289][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.27-21.22.26:303][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.27-21.22.26:317][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.27-21.22.26:330][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.27-21.22.26:344][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.27-21.22.26:358][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.27-21.22.26:365][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.27-21.22.26:437][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.27-21.22.26:516][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.27-21.22.26:516][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.27-21.22.26:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.27-21.22.26:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.27-21.22.26:556][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.27-21.22.26:568][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.27-21.22.26:580][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.27-21.22.26:592][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.27-21.22.26:637][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.27-21.22.26:637][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.27-21.22.26:637][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.27-21.22.26:715][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/dstanke/Desktop/new129/NoName/Intermediate/Shaders/WorkingDirectory/8416/).
+[2019.02.27-21.22.26:715][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dstanke/AppData/Local/Temp/UnrealShaderWorkingDir/889855DC4C67CD574868A9ADB591DC8C/'.
+[2019.02.27-21.22.26:719][  0]LogXGEController: Cleaning working directory: C:/Users/dstanke/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.27-21.22.26:719][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.27-21.22.26:719][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.27-21.22.26:719][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.27-21.22.27:233][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.27-21.22.27:310][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/dstanke/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.27-21.22.27:310][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dstanke/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.27-21.22.27:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dstanke/Desktop/new129/NoName/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.27-21.22.27:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.27-21.22.27:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dstanke/Desktop/new129/NoName/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.27-21.22.27:310][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.27-21.22.27:323][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.27-21.22.27:323][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.27-21.22.27:323][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.27-21.22.27:336][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dstanke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.27-21.22.27:336][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.27-21.22.27:336][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.27-21.22.27:358][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.27-21.22.27:359][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.27-21.22.27:360][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.27-21.22.27:447][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2019.02.27-21.22.27:769][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.27-21.22.27:931][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.27-21.22.27:936][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.27-21.22.27:936][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.27-21.22.27:936][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.27-21.22.27:936][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.27-21.22.27:949][  0]LogNetVersion: NoName 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3471971105)
+[2019.02.27-21.22.28:467][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.094689 seconds
+[2019.02.27-21.22.28:473][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.27-21.22.28:473][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.27-21.22.28:473][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.27-21.22.29:454][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.27-21.22.29:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.27-21.22.30:239][  0]SourceControl: Source control is disabled
+[2019.02.27-21.22.30:239][  0]SourceControl: Source control is disabled
+[2019.02.27-21.22.30:241][  0]SourceControl: Source control is disabled
+[2019.02.27-21.22.30:242][  0]SourceControl: Source control is disabled
+[2019.02.27-21.22.30:454][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.27-21.22.30:678][  0]LogOcInput: OculusInput pre-init called
+[2019.02.27-21.22.30:889][  0]LogEngine: Initializing Engine...
+[2019.02.27-21.22.30:890][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.27-21.22.30:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.27-21.22.30:892][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.27-21.22.30:893][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.27-21.22.30:893][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.27-21.22.31:142][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.27-21.22.31:161][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.27-21.22.31:184][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.27-21.22.31:387][  0]LogInit: FAudioDevice initialized.
+[2019.02.27-21.22.31:387][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.27-21.22.31:543][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/dstanke/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.27-21.22.31:551][  0]LogInit: Texture streaming: Enabled
+[2019.02.27-21.22.31:596][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.27-21.22.31:616][  0]LogInit: Transaction tracking system initialized
+[2019.02.27-21.22.31:650][  0]BlueprintLog: New page: Editor Load
+[2019.02.27-21.22.31:756][  0]LocalizationService: Localization service is disabled
+[2019.02.27-21.22.32:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dstanke/Desktop/new129/NoName/Content/' took 0.02s
+[2019.02.27-21.22.32:215][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.27-21.22.32:215][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.27-21.22.32:215][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.27-21.22.32:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.27-21.22.32:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.27-21.22.32:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.27-21.22.32:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.27-21.22.32:373][  0]SourceControl: Source control is disabled
+[2019.02.27-21.22.32:373][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.27-21.22.32:373][  0]LightingResults: New page: Lighting Build
+[2019.02.27-21.22.32:377][  0]MapCheck: New page: Map Check
+[2019.02.27-21.22.32:377][  0]LightingResults: New page: Lighting Build
+[2019.02.27-21.22.32:788][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.02.27-21.22.32:799][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.27-21.22.32:820][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.27-21.22.32:820][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2019.02.27-21.22.32:820][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.448
+[2019.02.27-21.22.32:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.22.32:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.22.32:968][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.22.32:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.22.32:987][  0]LogCollectionManager: Loaded 0 collections in 0.003283 seconds
+[2019.02.27-21.22.33:005][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dstanke/Desktop/new129/NoName/Saved/Collections/' took 0.01s
+[2019.02.27-21.22.33:005][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dstanke/Desktop/new129/NoName/Content/Developers/dstanke/Collections/' took 0.00s
+[2019.02.27-21.22.33:005][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dstanke/Desktop/new129/NoName/Content/Collections/' took 0.00s
+[2019.02.27-21.22.33:005][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.27-21.22.33:013][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2651 classes and 620 folders.
+[2019.02.27-21.22.33:022][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.27-21.22.33:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.27-21.22.33:079][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.27-21.22.33:085][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.27-21.22.33:099][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.27-21.22.33:101][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.27-21.22.33:106][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.27-21.22.33:186][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.02.27-21.22.33:314][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.27-21.22.33:329][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.02.27-21.22.33:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.27-21.22.33:360][  0]LogLoad: (Engine Initialization) Total time: 10.81 seconds
+[2019.02.27-21.22.33:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.27-21.22.33:470][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.27-21.22.33:589][  1]LogAssetRegistry: Asset discovery search completed in 6.1634 seconds
+[2019.02.27-21.22.33:591][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.27-21.22.33:591][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.02.27-21.22.34:870][  5]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.27-21.22.38:369][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.27-21.22.38:535][285]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/NPC.NPC
+[2019.02.27-21.22.38:958][285]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.27-21.22.39:743][285]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.27-21.23.38:591][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/NPC" FILE="../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/NPC.uasset" SILENT=true
+[2019.02.27-21.23.38:634][840]LogSavePackage: Moving '../../../../../../Users/dstanke/Desktop/new129/NoName/Saved/NPC91FF69904049C48CE75ED7964E2D7A12.tmp' to '../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/NPC.uasset'
+[2019.02.27-21.23.39:097][879]BlueprintLog: New page: Compile NPC
+[2019.02.27-21.23.40:484][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/NPC" FILE="../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/NPC.uasset" SILENT=true
+[2019.02.27-21.23.40:524][965]LogSavePackage: Moving '../../../../../../Users/dstanke/Desktop/new129/NoName/Saved/NPC01BD25D1402B38123825CDB70BAFDD7B.tmp' to '../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/NPC.uasset'
+[2019.02.27-21.23.51:232][943]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.27-21.23.51:255][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.23.51:255][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.27-21.23.51:256][943]PIE: New page: PIE session: SideScrollerExampleMap (Feb 27, 2019, 5:23:51 AM)
+[2019.02.27-21.23.51:268][943]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.02.27-21.23.51:293][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024396s)
+[2019.02.27-21.23.51:293][943]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.02.27-21.23.51:293][943]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.02.27-21.23.51:293][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025538s)
+[2019.02.27-21.23.51:336][943]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.27-21.23.51:362][943]LogInit: FAudioDevice initialized.
+[2019.02.27-21.23.51:416][943]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.02.27-21.23.51:428][943]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.02.27-13.23.51
+[2019.02.27-21.23.51:432][943]LogWorld: Bringing up level for play took: 0.011054
+[2019.02.27-21.23.51:477][943]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.02.27-21.23.51:478][943]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.401
+[2019.02.27-21.23.51:478][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.23.51:528][944]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.51:528][944]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.51:676][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.52:010][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.52:010][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.52:176][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.52:468][ 55]LogBlueprintUserMessages: [Boom_2] Input Enabled
+[2019.02.27-21.23.52:510][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.52:510][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.52:676][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.53:009][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.53:009][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.53:176][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.53:510][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.53:510][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.53:676][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.54:010][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.54:010][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.54:176][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.54:510][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.54:510][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.54:677][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.55:011][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.55:011][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.55:178][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.55:510][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.55:510][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.55:677][440]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.56:011][480]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.56:011][480]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.56:177][500]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.56:511][540]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.56:511][540]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.56:677][560]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:011][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:011][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:177][620]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:511][660]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:511][660]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:678][680]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.57:827][698]Set new viewmode: Wireframe
+[2019.02.27-21.23.58:011][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.58:011][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.58:178][740]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.58:511][780]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.58:512][780]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.58:678][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.23.58:745][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.23.58:745][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.23.58:783][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.27-21.23.58:783][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.23.58:828][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.23.58:861][809]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.27-21.24.05:085][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.27-21.24.21:469][783]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.27-21.24.25:649][159]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Boom.Boom
+[2019.02.27-21.25.32:779][869]BlueprintLog: New page: Compile Boom
+[2019.02.27-21.25.33:510][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Boom" FILE="../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/Boom.uasset" SILENT=true
+[2019.02.27-21.25.33:561][905]LogSavePackage: Moving '../../../../../../Users/dstanke/Desktop/new129/NoName/Saved/Boom8C4D0B534F4EFFFD83C9518ECE78CB0B.tmp' to '../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/Boom.uasset'
+[2019.02.27-21.25.47:844][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Boom" FILE="../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/Boom.uasset" SILENT=true
+[2019.02.27-21.25.47:886][ 96]LogSavePackage: Moving '../../../../../../Users/dstanke/Desktop/new129/NoName/Saved/Boom521BF58B404168E41699888B33F2B191.tmp' to '../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/Boom.uasset'
+[2019.02.27-21.25.57:831][844]BlueprintLog: New page: Compile Boom
+[2019.02.27-21.25.58:437][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Boom" FILE="../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/Boom.uasset" SILENT=true
+[2019.02.27-21.25.58:486][867]LogSavePackage: Moving '../../../../../../Users/dstanke/Desktop/new129/NoName/Saved/Boom77889487485B485A1B656E824AA86F7A.tmp' to '../../../../../../Users/dstanke/Desktop/new129/NoName/Content/SideScrollerBP/Blueprints/Boom.uasset'
+[2019.02.27-21.26.01:482][132]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.27-21.26.01:508][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.01:509][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.27-21.26.01:509][132]PIE: New page: PIE session: SideScrollerExampleMap (Feb 27, 2019, 5:26:01 AM)
+[2019.02.27-21.26.01:509][132]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.02.27-21.26.01:523][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014677s)
+[2019.02.27-21.26.01:524][132]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.02.27-21.26.01:524][132]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2019.02.27-21.26.01:525][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.015733s)
+[2019.02.27-21.26.01:567][132]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.27-21.26.01:594][132]LogInit: FAudioDevice initialized.
+[2019.02.27-21.26.01:622][132]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.02.27-21.26.01:625][132]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.02.27-13.26.01
+[2019.02.27-21.26.01:625][132]LogWorld: Bringing up level for play took: 0.002975
+[2019.02.27-21.26.01:638][132]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.244
+[2019.02.27-21.26.01:638][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.01:732][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.01:798][148]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.01:815][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.02:235][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.02:284][206]LogBlueprintUserMessages: [Boom_2] Input Enabled
+[2019.02.27-21.26.02:302][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.02:318][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.02:735][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.02:801][268]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.02:818][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.03:235][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.03:301][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.03:318][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.03:735][380]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.03:802][388]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.03:818][390]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.04:235][440]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.04:302][448]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.04:319][450]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.04:735][500]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.04:802][508]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.04:818][510]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.05:235][560]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.05:301][568]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.05:318][570]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.05:735][620]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.05:801][628]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.05:818][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.06:235][680]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.06:301][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.06:318][690]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.06:735][740]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.06:801][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.06:818][750]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.07:235][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.07:302][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.07:318][810]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.07:735][860]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.07:801][868]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.07:818][870]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.08:235][920]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.08:301][928]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.08:318][930]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.08:735][980]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.08:802][988]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.08:818][990]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.09:235][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.09:302][ 48]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.09:318][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.09:736][100]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.09:802][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.09:819][110]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.10:236][160]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.10:302][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.10:319][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.10:593][203]Set new viewmode: Wireframe
+[2019.02.27-21.26.10:736][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.10:803][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.10:819][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.11:236][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.11:302][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.11:319][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.11:478][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.11:478][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.26.11:513][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.27-21.26.11:514][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.11:542][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.26.11:579][311]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.27-21.26.14:112][573]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC2)
+[2019.02.27-21.26.16:537][801]Cmd: DELETE
+[2019.02.27-21.26.16:537][801]Cmd: ACTOR DELETE
+[2019.02.27-21.26.16:574][801]LogEditorActor: Deleted Actor: NPC_C
+[2019.02.27-21.26.16:603][801]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.02.27-21.26.17:268][879]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC3)
+[2019.02.27-21.26.17:460][886]Cmd: DELETE
+[2019.02.27-21.26.17:460][886]Cmd: ACTOR DELETE
+[2019.02.27-21.26.17:462][886]LogEditorActor: Deleted Actor: NPC_C
+[2019.02.27-21.26.17:490][886]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.02.27-21.26.18:580][ 15]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2019.02.27-21.26.19:190][ 67]Cmd: DELETE
+[2019.02.27-21.26.19:190][ 67]Cmd: ACTOR DELETE
+[2019.02.27-21.26.19:192][ 67]LogEditorActor: Deleted Actor: NPC_C
+[2019.02.27-21.26.19:222][ 67]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.02.27-21.26.20:617][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.27-21.26.23:480][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.27-21.26.26:158][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.27-21.26.26:222][722]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.27-21.26.26:240][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.26:240][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.27-21.26.26:240][722]PIE: New page: PIE session: SideScrollerExampleMap (Feb 27, 2019, 5:26:26 AM)
+[2019.02.27-21.26.26:240][722]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.02.27-21.26.26:254][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013744s)
+[2019.02.27-21.26.26:255][722]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.02.27-21.26.26:255][722]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2019.02.27-21.26.26:255][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014728s)
+[2019.02.27-21.26.26:298][722]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.27-21.26.26:323][722]LogInit: FAudioDevice initialized.
+[2019.02.27-21.26.26:353][722]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.02.27-21.26.26:357][722]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.02.27-13.26.26
+[2019.02.27-21.26.26:357][722]LogWorld: Bringing up level for play took: 0.003005
+[2019.02.27-21.26.26:371][722]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.488
+[2019.02.27-21.26.26:371][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.26:430][723]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.26:679][753]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.26:930][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.27:079][801]LogBlueprintUserMessages: [Boom_2] Input Enabled
+[2019.02.27-21.26.27:180][813]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.27:430][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.27:680][873]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.27:930][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.28:179][933]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.28:429][963]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.28:679][993]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.28:930][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.29:180][ 53]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.29:430][ 83]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.29:680][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.29:930][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.30:180][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.30:430][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.30:680][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.30:930][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.31:180][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.31:430][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/NPC.NPC_C:ExecuteUbergraph_NPC'!
+[2019.02.27-21.26.31:622][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.31:622][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.26.31:660][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.27-21.26.31:660][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.02.27-21.26.31:688][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.27-21.26.31:754][348]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.27-21.26.36:433][872]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2019.02.27-21.26.39:231][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.27-21.26.59:088][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.27-21.27.03:469][741]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2019.02.27-21.27.21:582][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.27-21.27.21:759][662]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.02.27-21.27.59:327][ 45]LogUObjectArray: Warning: Invalid object index 8126585
+[2019.02.27-21.27.59:327][ 45]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.27-21.28.02:249][ 45]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.922 s
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: 
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: Stack: 
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcebb58304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.27-21.28.02:254][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcebb681ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcf950bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffceb02769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffceafe0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcf9f47c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcfa194393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcf9fa2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcf9f78a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffcf9f6b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd15fddc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd15fd0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd15fe01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd15fcca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd26e46d41 USER32.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd26e46713 USER32.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd15fe1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ff6c1b65546 UE4Editor.exe!UnknownFunction []
+[2019.02.27-21.28.02:255][ 45]LogOutputDevice: Error: [Callstack] 0x00007ff6c1b7596c UE4Editor.exe!UnknownFunction []
+[2019.02.27-21.28.02:256][ 45]LogOutputDevice: Error: [Callstack] 0x00007ff6c1b759ea UE4Editor.exe!UnknownFunction []
+[2019.02.27-21.28.02:256][ 45]LogOutputDevice: Error: [Callstack] 0x00007ff6c1b848da UE4Editor.exe!UnknownFunction []
+[2019.02.27-21.28.02:256][ 45]LogOutputDevice: Error: [Callstack] 0x00007ff6c1b8659a UE4Editor.exe!UnknownFunction []
+[2019.02.27-21.28.02:256][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd26fd3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.27-21.28.02:256][ 45]LogOutputDevice: Error: [Callstack] 0x00007ffd29813691 ntdll.dll!UnknownFunction []
+[2019.02.27-21.28.02:256][ 45]LogOutputDevice: Error: 
+[2019.02.27-21.28.02:262][ 45]LogStats:                SubmitErrorReport -  0.000 s
